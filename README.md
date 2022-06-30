@@ -3,7 +3,8 @@
 Ce projet comporte des documentations très utiles mais également des commandes qui peuvent nous servir.
 
 
-go test -v ./infra/repo -run TestUpdateRepoClient
+Commande pour tester un test unitaire : 
+- > go test -v ./infra/repo -run TestUpdateRepoClient
 
 [Documentation MongoDB](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
 
