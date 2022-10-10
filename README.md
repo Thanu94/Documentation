@@ -8,10 +8,12 @@ Commande pour tester un test unitaire :
 
 [Documentation MongoDB](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
 
-[Documentation MongoDB avec du Golang](https://www.mongodb.com/docs/drivers/go/current/)
+[Documentation MongoDB avec Golang](https://www.mongodb.com/docs/drivers/go/current/)
 
-[Documentation MongoDB : MySQL => MongoDB](https://www.mongodb.com/docs/manual/reference/sql-comparison/)
+[Documentation MongoDB : MySQL => MongoDB](https://www.mongodb.com/docs/manual/reference/sql-comparison/) : comparaison entre SQL et MongoDB
 
-[Documentation cleancode](https://github.com/ryanmcdermott/clean-code-javascript)
+[Documentation cleancode](https://github.com/ryanmcdermott/clean-code-javascript), idéale pour un code propre
 
 [Documentation mongoose](https://mongoosejs.com/docs/typescript.html)
+
+[Documentation PnP/PnPjs](https://pnp.github.io/pnpjs/sp/items/), cette documentation contient les requêtes à utiliser sur une liste SharePoint
