@@ -22,10 +22,11 @@ Commande pour tester un test unitaire en Goolang :
 
 ## Node 
 
-[Liste des packages Node](https://nodejs.org/dist/)
+[Liste des packages Node](https://nodejs.org/dist/) : Vous retrouverez tout les packages Node
 
 ## SharePoint
 
 [Documentation PnP/PnPjs](https://pnp.github.io/pnpjs/sp/items/), cette documentation contient les requêtes à utiliser sur une liste SharePoint
+
 [Compatibilité des bibliothèques et outils de développement SharePoint Framework](https://learn.microsoft.com/fr-fr/sharepoint/dev/spfx/compatibility)
 
